@@ -1,0 +1,5 @@
+# Google AdMob
+google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
+
+# Unity Ads
+unityads.com, 1234567, DIRECT, 96cabb5fbdde37a7
